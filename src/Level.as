@@ -1,10 +1,9 @@
 package
 {
+	import flash.geom.Point;
 	import flash.utils.ByteArray;
 	
 	import net.flashpunk.Entity;
-	import net.flashpunk.Graphic;
-	import net.flashpunk.Mask;
 	import net.flashpunk.graphics.Tilemap;
 	import net.flashpunk.masks.Grid;
 	
@@ -62,7 +61,6 @@ package
 					int(dataElement.@h)/8,
 					true);
 			}
-			
 		}
 	}
 }

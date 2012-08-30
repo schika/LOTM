@@ -140,6 +140,20 @@
     <tile tx="88" ty="0" x="80" y="72"/>
     <rect tx="120" ty="0" x="0" y="48" w="96" h="24"/>
   </map>
+  <decorations set="decorationspack">
+    <tile tx="0" ty="0" x="72" y="88"/>
+    <tile tx="8" ty="0" x="80" y="88"/>
+    <tile tx="0" ty="8" x="72" y="96"/>
+    <tile tx="8" ty="8" x="80" y="96"/>
+    <tile tx="0" ty="16" x="72" y="104"/>
+    <tile tx="8" ty="16" x="80" y="104"/>
+    <tile tx="32" ty="0" x="40" y="96"/>
+    <tile tx="40" ty="0" x="48" y="96"/>
+    <tile tx="48" ty="0" x="56" y="96"/>
+    <tile tx="56" ty="0" x="64" y="96"/>
+    <tile tx="56" ty="8" x="64" y="104"/>
+    <tile tx="32" ty="8" x="40" y="104"/>
+  </decorations>
   <objects>
     <playerStart x="16" y="24"/>
     <lader x="16" y="80"/>

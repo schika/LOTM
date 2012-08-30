@@ -8,6 +8,7 @@
 	
 	<tilesets>
 		<tileset name="junglepack" image="data/junglepack.png" tileWidth="8" tileHeight="8" />
+		<tileset name="decorationspack" image="data/decorations.png" tileWidth="8" tileHeight="8" />
 	</tilesets>
 	
 	<objects>
@@ -17,6 +18,7 @@
 	
 	<layers>
 		<tiles name="map" gridSize="8" />
+		<tiles name="decorations" gridSize="8" />
 		<objects name="objects" gridSize="8" />
 	</layers>
 	
